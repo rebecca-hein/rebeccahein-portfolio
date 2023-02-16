@@ -19,8 +19,12 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Wuerzburg
+    url: https://www.uni-wuerzburg.de/startseite/
+  - name: Psychology Interactive Intelligent Systems
+    url: https://www.mcm.uni-wuerzburg.de/piis/startseite/
+  - url: https://hci.uni-wuerzburg.de
+    name: Human-Computer Interaction
 education:
   courses:
     - course: PhD in Artificial Intelligence
