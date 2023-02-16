@@ -12,7 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text:
+      text: I am a highly motivated and outcome-oriented research professional with a strong background in (Social) Virtual Reality development and evaluation. I have exceptional analytical skills, and the ability to work independently or as part of a team. Skilled in the application of various research methods, and statistical analysis to develop meaningful findings and recommendations. As part of my research work on an interdisciplinary project, I demonstrated skills in effectively communicating research findings and recommendations to stakeholders.
   - block: features
     content:
       title: Skills
