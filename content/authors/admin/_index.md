@@ -27,15 +27,15 @@ organizations:
     name: Human-Computer Interaction
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Human-Computer Interaction
+      institution: University of Wuerzburg
+      year: ""
+    - course: MSc in Human-Computer Interaction
+      institution: University of Wuerzburg
+      year: ""
+    - course: BSc in Computer Science
+      institution: Hochschule Darmstadt (h_da)
+      year: ""
 superuser: true
 status:
   icon: ☕️
