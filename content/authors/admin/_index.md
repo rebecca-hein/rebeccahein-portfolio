@@ -1,6 +1,4 @@
 ---
-design:
-      columns: '2'
 avatar_filename: avatar.png
 bio: ""
 interests: []

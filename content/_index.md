@@ -3,9 +3,10 @@
 title:
 date: 2022-10-24
 type: landing
-
 sections:
   - block: about.avatar
+    design:
+      columns: '2'
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -210,7 +211,6 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: rebecca.hein@uni-wuerzburg.de
       phone: 0931-31-96370
