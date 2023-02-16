@@ -38,7 +38,7 @@ education:
       year: ""
 superuser: true
 status:
-  icon: ☕️
+  icon: 
 last_name: Wu
 role: PhD student
 highlight_name: true
@@ -46,6 +46,9 @@ title: Rebecca Hein
 first_name: Alice
 email: ""
 ---
+
+# About me
+
 I am a highly motivated and outcome-oriented research professional with a strong background in (Social) Virtual Reality development and evaluation. I have exceptional analytical skills, and the ability to work independently or as part of a team. Skilled in the application of various research methods, and statistical analysis to develop meaningful findings and recommendations. As part of my research work on an interdisciplinary project, I demonstrated skills in effectively communicating research findings and recommendations to stakeholders.
 
 {style="text-align: justify;"}
