@@ -29,27 +29,27 @@ education:
   courses:
     - course: PhD in Human-Computer Interaction
       institution: University of Wuerzburg
-      year: ""
+      year: "2020-"
     - course: MSc in Human-Computer Interaction
       institution: University of Wuerzburg
-      year: ""
+      year: "2017-2020"
     - course: BSc in Computer Science
       institution: Hochschule Darmstadt (h_da)
-      year: ""
+      year: "2014-2017"
 superuser: true
 status:
   icon: 
-last_name: Wu
+last_name: Hein
 role: PhD student
 highlight_name: true
-title: Rebecca Hein
-first_name: Alice
-email: ""
+title:
+first_name: Rebecca
+email: "rebecca.hein@uni-wuerzburg.de"
 ---
 
-<h2 style="text-align: right"> About me </h2>
+# About me
 
-<div style="text-align: right"> 
+<div style="text-align: justify"> 
 I am a highly motivated and outcome-oriented research professional with a strong background in (Social) Virtual Reality development and evaluation. I have exceptional analytical skills, and the ability to work independently or as part of a team. Skilled in the application of various research methods, and statistical analysis to develop meaningful findings and recommendations. As part of my research work on an interdisciplinary project, I demonstrated skills in effectively communicating research findings and recommendations to stakeholders. </div>
 
 
