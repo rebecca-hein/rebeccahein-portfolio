@@ -1,14 +1,12 @@
 ---
 title: "Inter- and Transcultural Learning in Social Virtual Reality: A Proposal for an Inter- and Transcultural Virtual Object Database to be Used in the Implementation, Reflection, and Evaluation of Virtual Encounters"
 authors:
-- admin
+- Rebecca Hein
 - Marc Erich Latoschik
 - Carolin Wienrich
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2022-06-22T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.3390/mti6070050"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-06-22T00:00:00Z"
@@ -21,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Multimodal Technologies and Interaction, 6*(7)"
-publication_short: ""
+publication_short: "MDPI"
 
 abstract: Visual stimuli are frequently used to improve memory, language learning or perception, and understanding of metacognitive processes. However, in virtual reality (VR), there are few systematically and empirically derived databases. This paper proposes the first collection of virtual objects based on empirical evaluation for inter-and transcultural encounters between English- and German-speaking learners. We used explicit and implicit measurement methods to identify cultural associations and the degree of stereotypical perception for each virtual stimuli (n = 293) through two online studies, including native German and English-speaking participants. The analysis resulted in a final well-describable database of 128 objects (called InteractionSuitcase). In future applications, the objects can be used as a great interaction or conversation asset and behavioral measurement tool in social VR applications, especially in the field of foreign language education. For example, encounters can use the objects to describe their culture, or teachers can intuitively assess stereotyped attitudes of the encounters.
 
@@ -63,7 +61,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
