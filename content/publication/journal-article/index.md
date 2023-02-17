@@ -1,16 +1,17 @@
 ---
-title: "An example journal article"
+title: "Inter- and Transcultural Learning in Social Virtual Reality: A Proposal for an Inter- and Transcultural Virtual Object Database to be Used in the Implementation, Reflection, and Evaluation of Virtual Encounters"
 authors:
 - admin
-- Robert
+- Marc Erich Latoschik
+- Carolin Wienrich
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2022-06-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-06-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +20,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Multimodal Technologies and Interaction, 6*(7)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Visual stimuli are frequently used to improve memory, language learning or perception, and understanding of metacognitive processes. However, in virtual reality (VR), there are few systematically and empirically derived databases. This paper proposes the first collection of virtual objects based on empirical evaluation for inter-and transcultural encounters between English- and German-speaking learners. We used explicit and implicit measurement methods to identify cultural associations and the degree of stereotypical perception for each virtual stimuli (n = 293) through two online studies, including native German and English-speaking participants. The analysis resulted in a final well-describable database of 128 objects (called InteractionSuitcase). In future applications, the objects can be used as a great interaction or conversation asset and behavioral measurement tool in social VR applications, especially in the field of foreign language education. For example, encounters can use the objects to describe their culture, or teachers can intuitively assess stereotyped attitudes of the encounters.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -34,8 +35,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://www.mdpi.com/2414-4088/6/7/50
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
