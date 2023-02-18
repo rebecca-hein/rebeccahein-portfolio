@@ -12,6 +12,33 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text: 
+  - block: experience
+    id: Biography
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - icon: envelope
+          course: PhD in Human-Computer Interaction
+          institution: University of Wuerzburg
+          year: "2020-"
+        - icon: envelope
+          course: MSc in Human-Computer Interaction
+          institution: University of Wuerzburg
+          year: "2017-2020"
+        - icon: envelope
+          course: BSc in Computer Science
+          institution: Hochschule Darmstadt (h_da)
+          year: "2014-2017"
+    design:
+      columns: '2'
   - block: features
     id: skills
     content:

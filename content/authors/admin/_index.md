@@ -28,17 +28,6 @@ organizations:
     url: https://www.mcm.uni-wuerzburg.de/piis/startseite/
   - url: https://hci.uni-wuerzburg.de
     name: Human-Computer Interaction
-education:
-  courses:
-    - course: PhD in Human-Computer Interaction
-      institution: University of Wuerzburg
-      year: "2020-"
-    - course: MSc in Human-Computer Interaction
-      institution: University of Wuerzburg
-      year: "2017-2020"
-    - course: BSc in Computer Science
-      institution: Hochschule Darmstadt (h_da)
-      year: "2014-2017"
 superuser: true
 status:
   icon: 
@@ -51,6 +40,3 @@ email: "rebecca.hein@uni-wuerzburg.de"
 ---
 
 👋 Hi, there! I'm **Becci**, a human-computer researcher at University od Wuerzburg.
-
-
-        
