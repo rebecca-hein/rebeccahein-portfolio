@@ -16,9 +16,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rebecca-hein-3b2005254/
-  - icon: fa-researchgate
-    icon_pack: fa-brands
-    link: https://www.linkedin.com/in/rebecca-hein-3b2005254/
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Rebecca-Hein-2
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
