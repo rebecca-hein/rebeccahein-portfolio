@@ -3,12 +3,14 @@
 
 title: "Virtual Reality Im Modernen Englischunterricht Und Das Potenzial Für Inter  Und Transkulturelles Lernen"
 authors:
+- Jeanine Steinbock
 - Rebecca Hein
+- Maria Eisenmann
 - Carolin Wienrich
 - Marc Erich Latoschik
 year: 2022
 date: 2022-02-18T16:14:52+01:00
-doi: ""
+doi: "https://doi.org/10.21240/mpaed/47/2022.04.12.X"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-02-18T16:14:52+01:00
@@ -20,10 +22,10 @@ publishDate: 2022-02-18T16:14:52+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "In *MedienPädagogik Zeitschrift für Theorie und Praxis der Medienbildung*, Vol. 47, pp. 246-266. 2022."
 publication_short: ""
 
-abstract: ""
+abstract: "Der Aufbau von inter- und transkulturellen Kompetenzen im modernen Englischunterricht verlangt nach authentischen, kulturübergreifenden Begegnungs- und Kommunikationssituationen. Virtual Reality (VR) als Ort der Partizipation und Konstruktion kann dem Erwerb kultureller Kompetenzen zentrale Vorteile bieten, die die physischen Grenzen des Klassenzimmers auflösen und Lernende weltweit in authentische Kommunikationssituationen mit Lernenden treten lassen. Als Teil des Forschungsinteresses soll dabei untersucht werden, inwiefern Avatare, Kontexte und virtuelle Objekte Initiatoren und Begleiter kultureller Lernprozesse sein können. Für den Forschungsfokus auf virtuelle Objekte wurde eigens das InteractionSuitcase entwickelt, eine Sammlung virtueller Objekte, die unterschiedliche Stereotypisierungsgrade aufweisen und von Lernenden in der Kommunikationssituation genutzt werden können. Aufbauend auf dieser Entwicklung wurde ein universitäres Seminarkonzept entwickelt, in dem die Studierenden handlungs- und produktorientiert Unterrichtskonzepte für den Einsatz von VR im Fremdsprachenunterricht entwerfen. Ziel dieses Beitrages ist, die Entwicklung der VR-Welt und des Seminarkonzeptes vor dem Hintergrund medien- und kulturdidaktischer sowie empirischer Überlegungen vorzustellen (1) und anschliessend über die Ergebnisse der empirischen Begleitforschung zu berichten (2)."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -40,7 +42,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.medienpaed.com/article/view/1431/1144
 url_code:
 url_dataset:
 url_poster:

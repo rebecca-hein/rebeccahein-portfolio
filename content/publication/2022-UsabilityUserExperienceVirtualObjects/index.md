@@ -5,11 +5,10 @@ title: 'Usability and User Experience of Virtual Objects Supporting Learning and
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Rebecca Hein
-  - Carolin Wienrich
-  - Marc Erich Latoschik
-
+- Rebecca Hein
+- Carolin Wienrich
+- Marc Erich Latoschik
+year: 2022
 # Author notes (optional)
 author_notes:
 
@@ -26,8 +25,8 @@ publishDate: '2022-09-15T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Mensch und Computer 2022 - Tagungsband*
-publication_short: In *MuC*
+publication: "In *Mensch und Computer 2022 - Tagungsband*, pp. 510-514. New York: ACM, 2022"
+publication_short:
 
 abstract: This study aims to evaluate the usability and user experience of the InteractionSuitcase. This is a collection of virtual objects that have cultural connotations (associated with German or Anglo-American culture). They are intended to promote communication about cultural differences and similarities in English lessons at German schools. They are thus part of a didactic concept for using social VR for trans- and intercultural learning. Future teachers used the virtual objects during a practical seminar and rated them helpful to support trans- and intercultural encounters. Further, they associate a positive user experience. Since the virtual objects should encourage communication, the sense of connectedness instead of isolation is a meaningful result. The results proved the readiness of the InteractionSuitcase for further pedagogical applications.
 
@@ -37,7 +36,7 @@ summary:
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

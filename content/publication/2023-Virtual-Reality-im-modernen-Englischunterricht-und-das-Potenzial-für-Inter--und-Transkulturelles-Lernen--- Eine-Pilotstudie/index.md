@@ -22,7 +22,7 @@ publishDate: 2023-02-18T16:11:20+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Miriam Mulders, Josef Buchner, Andreas Dengel, Raphael Zender (Eds.), *MedienPädagogik: Zeitschrift für Theorie Und Praxis Der Medienbildung* (51), pp. 191-213. 2023."
+publication: "In Miriam Mulders, Josef Buchner, Andreas Dengel, Raphael Zender (Eds.), *MedienPädagogik: Zeitschrift für Theorie Und Praxis Der Medienbildung* (51), pp. 191-213. 2023"
 publication_short: ""
 
 abstract: ""
