@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Virtual Reality Im Modernen Englischunterricht Und Das Potenzial Für Inter  Und Transkulturelles Lernen    Eine Pilotstudie"
+title: "Virtual Reality Im Modernen Englischunterricht Und Das Potenzial Für Inter  Und Transkulturelles Lernen - Eine Pilotstudie"
 authors:
-  - admin
-  - Rebecca Hein
-  - Carolin Wienrich
-  - Marc Erich Latoschik
+- Rebecca Hein
+- Carolin Wienrich
+- Marc Erich Latoschik
+year: 2023
 date: 2023-02-18T16:11:20+01:00
 doi: ""
 
