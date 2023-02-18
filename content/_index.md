@@ -42,6 +42,13 @@ sections:
           date_end: '2017-09-01'
           description: Title Bachelor Thesis
           description: 
+        - title: Abitur
+          company: Karl Theodor von Dalberg Gymnasium
+          company_url: ''
+          company_logo: dalberg
+          location: Aschaffenburg
+          date_start: '2005-09-01'
+          date_end: '2014-06-27'
     design:
       columns: '2'
   - block: features
