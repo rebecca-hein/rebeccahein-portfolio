@@ -19,6 +19,9 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Rebecca-Hein-2
+  - icon: gitlab
+    icon_pack: fab
+    link: https://gitlab2.informatik.uni-wuerzburg.de/reh80gw
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -31,7 +34,7 @@ organizations:
     name: Human-Computer Interaction
 superuser: true
 status:
-  icon: 
+  icon: 🦁
 last_name: Hein
 role: PhD student
 highlight_name: true
