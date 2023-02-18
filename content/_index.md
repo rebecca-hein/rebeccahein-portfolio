@@ -32,7 +32,7 @@ sections:
           location: Wuerzburg
           date_start: '2017-10-01'
           date_end: '2020-11-01'
-          description: Change by XR - Plogging in VR to promote pro-environmental behavior
+          description: "Master Thesis: Change by XR - Plogging in VR to promote pro-environmental behavior"
         - title: Bachelor of Science - Computer Science (KMI)
           company: University of Applied Science (h_da)
           company_url: 'https://h-da.de'
@@ -40,7 +40,7 @@ sections:
           location: Darmstadt
           date_start: '2014-10-01'
           date_end: '2017-09-01'
-          description: Maßnahmen 
+          description: "Bachelor Thesis: *Maßnahmen für mehr Kundenzufriedenheit in der Softwareentwicklung*"
         - title: Abitur
           company: Karl Theodor von Dalberg Gymnasium
           company_url: ''
@@ -85,7 +85,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Assistant at PIIS Group
-          company: University Wuerzburg
+          company: Psychologie Interaktiver Intelligenter Systeme
           company_url: 'https://www.mcm.uni-wuerzburg.de/piis/startseite/'
           company_logo: piis
           location: Wuerzburg
@@ -93,7 +93,7 @@ sections:
           date_end: '2013-12-31'
           description: BMBF funded project - CoTeach (AP5)
         - title: Research Assistant at HCI Group
-          company: University Wuerzburg
+          company: Human-Computer Interaction, Informatik 9
           company_url: 'https://hci.uni-wuerzburg.de/people/rebecca-hein/'
           company_logo: hci
           location: Wuerzburg
