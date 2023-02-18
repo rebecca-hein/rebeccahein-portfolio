@@ -16,6 +16,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rebecca-hein-3b2005254/
+  - icon: fa-researchgate
+    icon_pack: fa-brands
+    link: https://www.linkedin.com/in/rebecca-hein-3b2005254/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -37,6 +40,6 @@ first_name: Rebecca
 email: "rebecca.hein@uni-wuerzburg.de"
 ---
 
-👋 Hi, there! I'm **Becci**, a human-computer researcher at University od Wuerzburg.
+👋 Hi, there! I'm **Becci**, a human-computer interaction researcher at University of Wuerzburg.
 
 I am is a highly motivated and outcome-oriented research professional with a strong background in (Social) Virtual Reality development and evaluation.
