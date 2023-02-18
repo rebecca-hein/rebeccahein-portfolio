@@ -50,9 +50,7 @@ first_name: Rebecca
 email: "rebecca.hein@uni-wuerzburg.de"
 ---
 
-<p style="font-size: 1.2rem; color: #FFB76B;>
+👋 Hi, there! I'm **Becci**, a human-computer researcher at University od Wuerzburg.
 
-    👋 Hi, there! I'm **Becci**, a human-computer researcher at University od Wuerzburg.
-</p>
 
         
