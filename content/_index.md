@@ -15,6 +15,7 @@ sections:
     design:
       columns: '2'
   - block: features
+    id: skills
     content:
       title: Skills
       items:
@@ -31,6 +32,7 @@ sections:
           icon: camera-retro
           icon_pack: fas
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -74,6 +76,7 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
+    id: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -113,6 +116,7 @@ sections:
     design:
       columns: '2'
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: |-
