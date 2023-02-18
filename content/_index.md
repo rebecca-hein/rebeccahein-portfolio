@@ -23,18 +23,22 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: (Social) VR Development
+          description: Unity, C#, Photon
+          icon: unity
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Statistical Analysis
+          description: R, SPSS, JASP
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+        - name: MS Office
+          description: 
+          icon: microsoft
+          icon_pack: fab
+        - name: Design Tools
+          description: Affinity Designer, Figma
+          icon: figma
+          icon_pack: fab
   - block: experience
     id: experience
     content:
