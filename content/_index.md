@@ -4,16 +4,14 @@ title:
 date: 2022-10-24
 type: landing
 sections:
-  - block: markdown #about.avatar
+  - block: about.avatar
     id: about
     text:
-    content:
+    #content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      #username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text: 
-    design:
-      columns: '2'
   - block: features
     id: skills
     content:
