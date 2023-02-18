@@ -1,48 +1,60 @@
 ---
-title: "An example preprint / working paper"
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "Virtual Reality Im Modernen Englischunterricht Und Das Potenzial Für Inter  Und Transkulturelles Lernen"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+  - admin
+  - Rebecca Hein
+  - Carolin Wienrich
+  - Marc Erich Latoschik
+year: 2022
+date: 2023-02-18T16:14:52+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: 2023-02-18T16:14:52+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: 
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: ""
 
-tags:
-- Source Themes
+tags: []
+categories: []
 featured: false
 
-links:
-- name:
-  url: 
-url_pdf: 
-url_code: ''
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+url_pdf:
+url_code:
+url_dataset:
+url_poster:
+url_project:
+url_slides:
+url_source:
+url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: ""
   focal_point: ""
   preview_only: false
 
@@ -60,9 +72,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
