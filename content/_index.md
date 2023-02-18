@@ -117,29 +117,29 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/
+          date_end: '2022-10-16'
+          date_start: '2021-11-14'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Udemy
+          organization_url: https://www.udemy.com/
+          title: Multiplayer Virtual Reality (VR) Development With Unity
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.udemy.com/course-dashboard-redirect/?course_id=4359576 
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2022-01-01'
+          description: 
+          organization: Udemy
+          organization_url: https://www.udemy.com/
+          title: Figma UI UX Design Essentials
+          url: ''
+        - certificate_url: https://www.udemy.com/course-dashboard-redirect/?course_id=2597350
+          date_end: ''
+          date_start: '2022-01-01'
           description: ''
-          organization: DataCamp
+          organization: Udemy
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'Blender 2.8 von A-Z'
           url: ''
     design:
       columns: '2'
@@ -154,7 +154,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        #exclude_featured: true
     design:
       columns: '2'
       view: citation
