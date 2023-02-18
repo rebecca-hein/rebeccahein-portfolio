@@ -1,56 +1,50 @@
 ---
 avatar_filename: avatar.png
-type: landing
-sections:
-  - block: about.avatar
-    id: about
-    bio: "Biography"
-    interests: []
-    social:
-      - icon: envelope
-        icon_pack: fas
-        link: /#contact
-      - icon: graduation-cap
-        icon_pack: fas
-        link: https://scholar.google.de/citations?hl=de&user=LM0x9xgAAAAJ
-      - icon: github
-        icon_pack: fab
-        link: https://github.com/rebecca-hein
-      - icon: linkedin
-        icon_pack: fab
-        link: https://www.linkedin.com/in/rebecca-hein-3b2005254/
-      - icon: cv
-        icon_pack: ai
-        link: uploads/resume.pdf
-    organizations:
-      - name: University of Wuerzburg
-        url: https://www.uni-wuerzburg.de/startseite/
-      - name: Psychology Interactive Intelligent Systems
-        url: https://www.mcm.uni-wuerzburg.de/piis/startseite/
-      - url: https://hci.uni-wuerzburg.de
-        name: Human-Computer Interaction
-    education:
-      courses:
-        - course: PhD in Human-Computer Interaction
-          institution: University of Wuerzburg
-          year: "2020-"
-        - course: MSc in Human-Computer Interaction
-          institution: University of Wuerzburg
-          year: "2017-2020"
-        - course: BSc in Computer Science
-          institution: Hochschule Darmstadt (h_da)
-          year: "2014-2017"
-    superuser: true
-    status:
-      icon: 
-    last_name: Hein
-    role: PhD student
-    highlight_name: true
-    title:
-    first_name: Rebecca
-    email: "rebecca.hein@uni-wuerzburg.de"
-    design:
-        columns: '2'
+bio: ""
+interests: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.de/citations?hl=de&user=LM0x9xgAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/rebecca-hein
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/rebecca-hein-3b2005254/
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+organizations:
+  - name: University of Wuerzburg
+    url: https://www.uni-wuerzburg.de/startseite/
+  - name: Psychology Interactive Intelligent Systems
+    url: https://www.mcm.uni-wuerzburg.de/piis/startseite/
+  - url: https://hci.uni-wuerzburg.de
+    name: Human-Computer Interaction
+education:
+  courses:
+    - course: PhD in Human-Computer Interaction
+      institution: University of Wuerzburg
+      year: "2020-"
+    - course: MSc in Human-Computer Interaction
+      institution: University of Wuerzburg
+      year: "2017-2020"
+    - course: BSc in Computer Science
+      institution: Hochschule Darmstadt (h_da)
+      year: "2014-2017"
+superuser: true
+status:
+  icon: 
+last_name: Hein
+role: PhD student
+highlight_name: true
+title:
+first_name: Rebecca
+email: "rebecca.hein@uni-wuerzburg.de"
 ---
 
 # About me 
