@@ -12,8 +12,6 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text: 
-    design:
-      columns: '2'
   - block: features
     id: skills
     content:
@@ -133,6 +131,9 @@ sections:
   - block: contact
     id: contact
     content:
+      coordinates:
+        latitude: '49.78177'
+        longitude: '9.973449'
       title: Contact
       subtitle:
       text: |-

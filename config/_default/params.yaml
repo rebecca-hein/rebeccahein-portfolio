@@ -42,6 +42,7 @@ header:
 # Site footer
 
 footer:
+  block: minimal
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
@@ -49,6 +50,9 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+  # For multilingual sites, show a language chooser in the footer?
+  show_translations: true
+
 
 # Localization
 
@@ -94,7 +98,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 
