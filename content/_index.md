@@ -88,7 +88,7 @@ sections:
         - title: Research Assistant
           company: University Wuerzburg
           company_url: ''
-          company_logo: org-gc
+          company_logo: uniwue
           location: Wuerzburg
           date_start: '2020-11-01'
           date_end: '2013-12-31'
@@ -96,7 +96,7 @@ sections:
         - title: Internship - IT-Applications
           company: time:matters
           company_url: ''
-          company_logo: org-x
+          company_logo: tm
           location: Neu-Isenburg
           date_start: '2017-01-01'
           date_end: '2017-07-01'
