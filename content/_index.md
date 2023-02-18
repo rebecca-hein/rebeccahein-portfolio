@@ -12,7 +12,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text: 
-  - block: markdown
+  - block: experience
     id: education
     content:
       title: Education
@@ -41,13 +41,6 @@ sections:
           date_start: '2014-10-01'
           date_end: '2017-09-01'
           description: Title Bachelor Thesis
-        - title: Abitur
-          company: Karl Theodor von Dalberg Gymnasium
-          company_url: ''
-          company_logo: dalberg
-          location: Aschaffenburg
-          date_start: '2005-09-01'
-          date_end: '2014-06-27'
           description: 
     design:
       columns: '2'
@@ -72,14 +65,6 @@ sections:
           description: Affinity Designer, Figma
           icon: figma
           icon_pack: fab
-        - name: To Do
-          description: -
-          icon: edit
-          icon_pack: far
-        - name: To Do
-          description: -
-          icon: edit
-          icon_pack: far
   - block: experience
     id: experience
     content:
