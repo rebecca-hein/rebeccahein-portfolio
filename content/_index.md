@@ -117,30 +117,30 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/
+        - certificate_url: uploads/udemy-socialvr.pdf
           date_end: '2022-10-16'
           date_start: '2021-11-14'
           description: ''
           organization: Udemy
           organization_url: https://www.udemy.com/
           title: Multiplayer Virtual Reality (VR) Development With Unity
-          url: ''
-        - certificate_url: https://www.udemy.com/course-dashboard-redirect/?course_id=4359576 
+          url: 'https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/'
+        - certificate_url: 
           date_end: ''
           date_start: '2022-01-01'
           description: 
           organization: Udemy
           organization_url: https://www.udemy.com/
           title: Figma UI UX Design Essentials
-          url: ''
-        - certificate_url: https://www.udemy.com/course-dashboard-redirect/?course_id=2597350
+          url: 'https://www.udemy.com/course-dashboard-redirect/?course_id=4359576 '
+        - certificate_url: 
           date_end: ''
           date_start: '2022-01-01'
           description: ''
           organization: Udemy
           organization_url: https://www.datacamp.com
           title: 'Blender 2.8 von A-Z'
-          url: ''
+          url: 'https://www.udemy.com/course-dashboard-redirect/?course_id=2597350'
     design:
       columns: '2'
   - block: collection
