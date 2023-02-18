@@ -3,22 +3,21 @@
 
 title: "Virtual Reality Im Modernen Englischunterricht Und Das Potenzial Für Inter  Und Transkulturelles Lernen"
 authors:
-  - admin
-  - Rebecca Hein
-  - Carolin Wienrich
-  - Marc Erich Latoschik
+- Rebecca Hein
+- Carolin Wienrich
+- Marc Erich Latoschik
 year: 2022
-date: 2023-02-18T16:14:52+01:00
+date: 2022-02-18T16:14:52+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-02-18T16:14:52+01:00
+publishDate: 2022-02-18T16:14:52+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
