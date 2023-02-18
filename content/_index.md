@@ -14,6 +14,8 @@ sections:
       text: 
   - block: markdown
     id: education
+    content:
+      title: Education
     design:
       columns: '2'
   - block: features
