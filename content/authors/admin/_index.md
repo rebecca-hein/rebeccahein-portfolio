@@ -40,6 +40,3 @@ email: "rebecca.hein@uni-wuerzburg.de"
 👋 Hi, there! I'm **Becci**, a human-computer researcher at University od Wuerzburg.
 
 I am is a highly motivated and outcome-oriented research professional with a strong background in (Social) Virtual Reality development and evaluation.
-
-Thank you for visiting my website.
-
