@@ -16,6 +16,39 @@ sections:
     id: education
     content:
       title: Education
+      items:
+        - title: PhD Student - Human-Computer Interaction
+          company: University Wuerzburg
+          company_url: ''
+          company_logo: uniwue
+          location: Wuerzburg
+          date_start: '2020-04-01'
+          date_end: ''
+          description: 
+        - title: Master of Science - Human-Computer Interaction
+          company: University Wuerzburg
+          company_url: ''
+          company_logo: uniwue
+          location: Wuerzburg
+          date_start: '2017-10-01'
+          date_end: '2020-11-01'
+          description: Title Master Thesis
+        - title: Bachelor of Science - Computer Science (KMI)
+          company: University of Applied Science (h_da)
+          company_url: ''
+          company_logo: hda
+          location: Darmstadt
+          date_start: '2014-10-01'
+          date_end: '2017-09-01'
+          description: Title Bachelor Thesis
+        - title: Abitur
+          company: Karl Theodor von Dalberg Gymnasium
+          company_url: ''
+          company_logo: dalberg
+          location: Aschaffenburg
+          date_start: '2005-09-01'
+          date_end: '2014-06-27'
+          description: 
     design:
       columns: '2'
   - block: features
@@ -39,6 +72,14 @@ sections:
           description: Affinity Designer, Figma
           icon: figma
           icon_pack: fab
+        - name: To Do
+          description: -
+          icon: edit
+          icon_pack: far
+        - name: To Do
+          description: -
+          icon: edit
+          icon_pack: far
   - block: experience
     id: experience
     content:
@@ -52,35 +93,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD
-          company: GenCoin
+        - title: Research Assistant
+          company: University Wuerzburg
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Master
-          company: University X
+          location: Wuerzburg
+          date_start: '2020-11-01'
+          date_end: '2013-12-31'
+          description: BMBF funded project - CoTeach
+        - title: Internship - IT-Applications
+          company: time:matters
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-        - title: Bachelor
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Neu-Isenburg
+          date_start: '2017-01-01'
+          date_end: '2017-07-01'
+          description: 
     design:
       columns: '2'
   - block: accomplishments
