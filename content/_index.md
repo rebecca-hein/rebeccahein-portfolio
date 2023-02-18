@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
-type: pages
+type: landing
 sections:
   - block: about.avatar
     id: about
