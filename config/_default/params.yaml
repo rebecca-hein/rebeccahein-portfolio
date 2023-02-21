@@ -65,8 +65,8 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: xcode-light
-    theme_dark: xcode-dark
+    theme_light: ocean
+    theme_dark: coffee
   math:
     enable: false
   privacy_pack:
