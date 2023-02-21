@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: modern
-  theme_night: modern
-  font: modern
+  theme_day: coffee
+  theme_night: ocean
+  font: minimal
   font_size: M
 
 # SEO
@@ -24,7 +24,7 @@ marketing:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'rebeccahein'
     baidu: ''
 
 # Site header
