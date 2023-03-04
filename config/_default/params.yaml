@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: earth
-  theme_night: earth
+  theme_day: minimal
+  theme_night: minimal
   font: minimal
   font_size: M
 
@@ -65,8 +65,8 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: xcode-light
-    theme_dark: xcode-dark
+    theme_light: minimal
+    theme_dark: minimal
   math:
     enable: false
   privacy_pack:
