@@ -65,8 +65,8 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: github-dark
+    theme_light: coffee
+    theme_dark: coffee
   math:
     enable: false
   privacy_pack:
