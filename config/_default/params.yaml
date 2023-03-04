@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: 1950s
-  theme_night: 1950s
+  theme_day: earth
+  theme_night: earth
   font: minimal
   font_size: M
 
@@ -65,8 +65,8 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: github-dark
+    theme_light: earth
+    theme_dark: earth
   math:
     enable: false
   privacy_pack:
