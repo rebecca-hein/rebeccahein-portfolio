@@ -6,8 +6,8 @@ event_url: https://www.youtube.com/watch?v=ZlqTjdqrke8
 
 location: University of Würzburg
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Machine Learning Gesture Classifier.
+abstract: 'In this project, a gesture classifier was implemented in combination with an ImageViewer, which could be controlled by gestures via the Kinect. For this, different gestures were recorded, annotated and our Machine Leaning algorithm was trained and tested on it. The user can (see video) control the ImageViewer application via gestures.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
