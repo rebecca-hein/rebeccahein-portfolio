@@ -153,7 +153,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Student Projects
       filters:
         folders:
           - event

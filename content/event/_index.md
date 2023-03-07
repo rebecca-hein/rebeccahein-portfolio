@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Student Projects
 cms_exclude: true
 
 # View.
