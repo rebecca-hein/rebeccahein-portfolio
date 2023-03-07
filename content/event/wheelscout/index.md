@@ -1,13 +1,13 @@
 ---
-title: Multimodal Interfaces
+title: WheelScout
 
-event: MMI
-event_url: https://www.youtube.com/watch?v=bMJsYHsPkPc
+event: 
+event_url: https://h-da.de/nachrichten/navigations-app-fuer-rollstuhlfahrende-mit-erweiterten-funktionen
 
-location: University of Würzburg
+location: Navigation app for wheelchair passengers
 
-summary: Measuring Cognitive Workload within Multimodal Interfaces.
-abstract: 'In this project, we implemented a generic VR environment to measure cognitive workload. The user was asked to manipulate cubes by voice and gesture commands (color, size, position, insert or delete). To develop the speech and gesture interface, we used and modified ATN grammar..'
+summary: Machine Learning Gesture Classifier.
+abstract: 'In this project, we developed the app "Wheel Scout", which supports wheelchair users in navigation. It indicates whether the intended route is barrier-free, restricted, or impossible to negotiate. What is new is that the app also works inside buildings and is also equipped with voice control. This means that wheelchair users can navigate even more easily, even through buildings.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -16,7 +16,7 @@ abstract: 'In this project, we implemented a generic VR environment to measure c
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2018-09-26T00:00:00Z'
+publishDate: '2016-05-19T00:00:00Z'
 
 authors: [Rebecca Hein]
 tags: []
@@ -29,10 +29,10 @@ image:
   focal_point: Right
 
 links:
-  - icon: youtube
-    icon_pack: fab
-    name: Watch
-    url: https://www.youtube.com/watch?v=bMJsYHsPkPc
+  #- icon: youtube
+  #  icon_pack: fab
+  #  name: Watch
+  #  url: https://www.youtube.com/watch?v=ZlqTjdqrke8
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -51,6 +51,6 @@ url_video: ''
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - mmi
+  - wheelscout
 ---
 
