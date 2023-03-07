@@ -30,7 +30,7 @@ image:
 
 links:
   - icon: newspaper
-    icon_pack: fab
+    icon_pack: fa
     name: Article
     url: https://h-da.de/nachrichten/navigations-app-fuer-rollstuhlfahrende-mit-erweiterten-funktionen
 url_code: ''
