@@ -29,10 +29,10 @@ image:
   focal_point: Right
 
 links:
-  #- icon: youtube
-  #  icon_pack: fab
-  #  name: Watch
-  #  url: https://www.youtube.com/watch?v=ZlqTjdqrke8
+  - icon: newspaper
+    icon_pack: fab
+    name: Article
+    url: https://h-da.de/nachrichten/navigations-app-fuer-rollstuhlfahrende-mit-erweiterten-funktionen
 url_code: ''
 url_pdf: ''
 url_slides: ''
