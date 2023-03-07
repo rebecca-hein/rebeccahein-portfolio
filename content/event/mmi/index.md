@@ -32,7 +32,7 @@ links:
   - icon: youtube
     icon_pack: fab
     name: Watch
-    url: https://www.youtube.com/watch?v=ZlqTjdqrke8
+    url: https://www.youtube.com/watch?v=bMJsYHsPkPc
 url_code: ''
 url_pdf: ''
 url_slides: ''
