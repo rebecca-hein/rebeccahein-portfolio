@@ -4,9 +4,9 @@ title: WheelScout
 event: 
 event_url: https://h-da.de/nachrichten/navigations-app-fuer-rollstuhlfahrende-mit-erweiterten-funktionen
 
-location: Navigation app for wheelchair passengers
+location: Darmstadt
 
-summary: Machine Learning Gesture Classifier.
+summary: Navigation app for wheelchair passengers
 abstract: 'In this project, we developed the app "Wheel Scout", which supports wheelchair users in navigation. It indicates whether the intended route is barrier-free, restricted, or impossible to negotiate. What is new is that the app also works inside buildings and is also equipped with voice control. This means that wheelchair users can navigate even more easily, even through buildings.'
 
 # Talk start and end times.
