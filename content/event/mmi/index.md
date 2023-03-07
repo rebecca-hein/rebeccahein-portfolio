@@ -1,13 +1,13 @@
 ---
-title: Machine Learning
+title: Multimodal Interfaces
 
-event: ML course
-event_url: https://www.youtube.com/watch?v=ZlqTjdqrke8
+event: MMI
+event_url: https://www.youtube.com/watch?v=bMJsYHsPkPc
 
 location: University of Würzburg
 
-summary: Machine Learning Gesture Classifier.
-abstract: 'In this project, a gesture classifier was implemented in combination with an ImageViewer, which could be controlled by gestures via the Kinect. For this, different gestures were recorded, annotated and our Machine Leaning algorithm was trained and tested on it. The user can (see video) control the ImageViewer application via gestures.'
+summary: Measuring Cognitive Workload within Multimodal Interfaces.
+abstract: 'In this project, we implemented a generic VR environment to measure cognitive workload. The user was asked to manipulate cubes by voice and gesture commands (color, size, position, insert or delete). To develop the speech and gesture interface, we used and modified ATN grammar..'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -51,6 +51,6 @@ url_video: ''
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - ml
+  - mmi
 ---
 
